@@ -1,0 +1,13 @@
+## Technologies Used
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+
+## Requirements
+pip install numpy pandas matplotlib
+
+Formula:
+
+```text
+IQR = Q3 - Q1
